@@ -79,3 +79,8 @@ img:hover {
     font-size: 1.2em;
     color: white;
 }
+@media only screen and (max-width: 850px) {
+    .title-insta {
+        text-align: center;
+    }
+}
